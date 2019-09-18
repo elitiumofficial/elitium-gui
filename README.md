@@ -2,9 +2,9 @@
 
 
 # elitium-gui
-***
 
-## General repository for Elitium cross-platform App
+General repository for Elitium cross-platform App<br>
+<br>
 
-
-More information at [elitium.io](https://www.elitium.io)
+<p align="center">For more information<br>
+https://www.elitium.io</p>
