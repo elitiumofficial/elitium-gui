@@ -6,5 +6,8 @@
 General repository for Elitium cross-platform App<br>
 <br>
 
+<br>
+<br>
+
 <p align="center">For more information<br>
 https://www.elitium.io</p>
