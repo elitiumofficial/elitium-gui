@@ -5,7 +5,7 @@
 
 General repository for Elitium cross-platform App<br>
 <br>
-- Elitium PWA 1.2.1
+- Elitium PWA Connect 1.2.1
 
 <br>
 <br>
